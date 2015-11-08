@@ -1,9 +1,9 @@
 # pi-audiometer
 Raspberry pi 2 Audiometer to Neonatology Department 
 
-
-![alt tag](https://raw.github.com/mariomourao/pi-audiometer/blob/master/Photos/DSC_0018.JPG)
-
-![](https://github.com/mariomourao/pi-audiometer/blob/master/Photos/DSC_0018.JPG)
-
+Green
 ![Alt text](Photos/DSC_0018.JPG?raw=true "Title")
+
+![Alt text](Photos/DSC_0021.JPG?raw=true "Title")
+
+![Alt text](Photos/DSC_0024.JPG?raw=true "Title")
